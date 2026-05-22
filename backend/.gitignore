@@ -1,0 +1,5 @@
+.env
+env/
+_pycache__/
+*.index
+*.pickle
